@@ -17,6 +17,16 @@
 #define ADJUST   4
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        palette {
+            bindings = <&kp F17>;
+            key-positions = <28 27>;
+            layers = <0>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
