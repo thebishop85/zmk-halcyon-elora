@@ -27,6 +27,15 @@
         };
     };
 
+    macros {
+        new_macro1: new_macro1 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp T &kp E &kp S &kp T &kp E &kp N1 &kp N2 &kp N3 &kp N4 &kp N5>;
+            label = "NEW_MACRO1";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
