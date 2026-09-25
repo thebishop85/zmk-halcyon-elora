@@ -51,8 +51,8 @@
 
             bindings = <
 &kp ESC        &kp N1  &kp N2  &kp N3     &kp N4        &kp N5                                                                 &kp N6  &kp N7    &kp N8     &kp N9   &kp N0    &kp MINUS
-&kp TAB        &kp Q   &kp W   &kp E      &kp R         &kp T                                                                  &kp Y   &kp U     &kp I      &kp O    &kp P     &kp BSPC
-&kp BACKSPACE  &kp A   &kp S   &kp D      &kp F         &kp G                                                                  &kp H   &kp J     &kp K      &kp L    &kp SEMI  &mt RCTRL SQT
+&kp TAB        &kp Q   &kp W   &kp E      &kp R         &kp T                                                                  &kp Y   &kp U     &kp I      &kp O    &kp P     &kp RIGHT_BRACKET
+&kp BACKSPACE  &kp A   &kp S   &kp D      &kp F         &kp G                                                                  &kp H   &kp J     &kp K      &kp L    &kp SEMI  &kp SINGLE_QUOTE
 &mo 4          &kp Z   &kp X   &kp C      &kp V         &kp B    &kp LS(LC(F17))       &kp ESC             &mo 2  &kp RBKT     &kp N   &kp M     &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
                                &kp LCTRL  &kp LEFT_ALT  &kp DEL  &mt LEFT_SHIFT SPACE  &mt LEFT_GUI ENTER  &mo 2  &lt 1 ENTER  &mo 1   &kp RGUI  &kp K_APP
 &kp RGUI       &none   &none   &none      &none                                                                                        &none     &none      &none    &none     &kp RGUI
