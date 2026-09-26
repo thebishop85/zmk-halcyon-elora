@@ -22,6 +22,6 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     snippet: studio-rpc-usb-uart
   - board: halcyon_wireless//zmk
-    shield: halcyon_elora_left mod_battery_coincell mod_display_epaper_cityscape
+    shield: halcyon_elora_left mod_battery_coincell mod_display_epaper_forest
   - board: halcyon_wireless//zmk
     shield: halcyon_elora_right mod_battery_coincell mod_encoder_right
